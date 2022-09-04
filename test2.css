@@ -57,7 +57,7 @@ body{
 }
 .reset{}
 .label{
-    font-variant:  small-caps;
+    font-variant:  normal;
     font-family: fantasy;
     font-size: xx-large;
 }
